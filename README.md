@@ -2,7 +2,7 @@
 
 **Título do trabalho:** Acessos massivos e implicações na política de uso do aplicativo Menor Preço RS
 
-Este repositório reúne os scripts em Python desenvolvidos no âmbito do TCC do MBA em Data Science e Analytics. O objetivo é disponibilizar o código utilizado nas análises e registrar implementações construídas durante testes metodológicos.
+Este repositório reúne os scripts em Python desenvolvidos no âmbito do TCC do MBA em Data Science e Analytics. O objetivo é disponibilizar o código utilizado nas análises e registrar as implementações construídas durante testes metodológicos.
 
 ## Conteúdo do repositório
 
