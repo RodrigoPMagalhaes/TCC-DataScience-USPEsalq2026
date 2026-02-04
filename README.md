@@ -1,6 +1,5 @@
-# TCC-DataScience-USPEsalq2026
-CÓDIGO-FONTE EM PYTHON: scripts do TCC do MBA em Data Science e Analytics “Acessos massivos e implicações na política de uso do aplicativo Menor Preço RS
-# Código-fonte em Python — TCC (MBA em Data Science e Analytics)
+# TCC em DataScience USP/ Esalq (2026)
+
 **Título do trabalho:** Acessos massivos e implicações na política de uso do aplicativo Menor Preço RS
 
 Este repositório reúne os scripts em Python desenvolvidos no âmbito do TCC do MBA em Data Science e Analytics. O objetivo é disponibilizar o código utilizado nas análises e registrar implementações construídas durante testes metodológicos.
@@ -16,7 +15,7 @@ Este repositório reúne os scripts em Python desenvolvidos no âmbito do TCC do
   Implementado como alternativa metodológica (clusterização hierárquica aglomerativa), porém descartado no delineamento final do estudo.
 
 - **Cluster - Modelo Não Hierárquico - Kmeans - Dados com transformação logarítmica.py**  
-  Implementado para testar a transformação logarítmica das variáveis antes do k-means, porém não utilizado na versão final do trabalho.
+  Implementado para testar a transformação logarítmica das variáveis antes da padronização pelo z-score, porém não utilizado na versão final do trabalho.
 
 ## Observação importante
-O repositório reúne apenas os scripts em Python empregados no desenvolvimento das análises. As bases de dados utilizadas na pesquisa não são disponibilizadas, em razão de restrições de sigilo e para assegurar conformidade com a LGPD.
+O repositório reúne apenas os scripts em Python empregados no desenvolvimento das análises. As bases de dados utilizadas na pesquisa não são disponibilizadas, em razão de restrições de sigilo fiscal e para assegurar conformidade com a LGPD.
